@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Historial
+comment1.params=nroIdent\ fechaModificacion
+comment1.target=Historial(int,\ java.util.Date)
+comment2.params=reservActual
+comment2.target=void\ actualizarHistorial(Reserva)
+comment3.params=reserva
+comment3.target=void\ aniadirReserva(Reserva)
+comment4.params=
+comment4.target=java.util.Date\ getFechaModificacion()
+comment5.params=
+comment5.target=int\ getNroIdent()
+comment6.params=
+comment6.target=java.util.ArrayList\ getReservas()
+comment7.params=fechaModificacion
+comment7.target=void\ setFechaModificacion(java.util.Date)
+numComments=8

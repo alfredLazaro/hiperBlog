@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Administrador
+comment1.params=nombreCuenta\ contrasenia
+comment1.target=Administrador(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNombreCuenta()
+comment3.params=contrasenia
+comment3.target=void\ setContrasenia(java.lang.String)
+numComments=4

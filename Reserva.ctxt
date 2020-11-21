@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Reserva
+comment1.params=paquete\ pasaje\ cliente\ fechaReserva
+comment1.target=Reserva(PaqueteTuristico,\ Pasaje,\ Cliente,\ java.util.Date)
+comment10.params=pasaje
+comment10.target=void\ setPasaje(Pasaje)
+comment2.params=
+comment2.target=Cliente\ getCliente()
+comment3.params=
+comment3.target=java.util.Date\ getFechaReserva()
+comment4.params=
+comment4.target=PaqueteTuristico\ getPaquete()
+comment5.params=
+comment5.target=Pasaje\ getPasaje()
+comment6.params=
+comment6.target=java.lang.String\ getEstado()
+comment7.params=estadoReserva
+comment7.target=void\ setEstadoReserva(java.lang.String)
+comment8.params=paquete
+comment8.target=void\ setPaquete(PaqueteTuristico)
+comment9.params=fechaReserva
+comment9.target=void\ setFechaReserva(java.util.Date)
+numComments=11

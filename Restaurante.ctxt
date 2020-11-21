@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Restaurante
+comment1.params=ubicacion\ nombreRest
+comment1.target=Restaurante(java.lang.String,\ java.lang.String)
+comment2.params=plato
+comment2.target=void\ agregarPlato(Comida)
+comment3.params=platoEliminar
+comment3.target=void\ eliminarPlato(Comida)
+comment4.params=
+comment4.target=java.util.ArrayList\ getMenu()
+comment5.params=
+comment5.target=java.lang.String\ getUbicacion()
+comment6.params=
+comment6.target=java.lang.String\ getNombreRest()
+comment7.params=ubicacion
+comment7.target=void\ setUbicacion(java.lang.String)
+comment8.params=
+comment8.target=int\ calcularPrecioMenu()
+numComments=9

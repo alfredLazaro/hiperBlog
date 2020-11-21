@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=PaqueteTuristico
+comment1.params=transporte\ hotel\ restaurant\ cantDias
+comment1.target=PaqueteTuristico(Transporte,\ Hotel,\ Restaurante,\ int)
+comment10.params=
+comment10.target=Transporte\ getTransporte()
+comment11.params=
+comment11.target=void\ setDisponible()
+comment12.params=nuevoPrecio
+comment12.target=void\ setPrecio(int)
+comment2.params=
+comment2.target=boolean\ existeOfertaDias()
+comment3.params=
+comment3.target=int\ calcularPrecio()
+comment4.params=
+comment4.target=int\ generarId()
+comment5.params=
+comment5.target=int\ getCantDias()
+comment6.params=
+comment6.target=int\ getNroIde()
+comment7.params=
+comment7.target=boolean\ getDisponible()
+comment8.params=
+comment8.target=Hotel\ getHotel()
+comment9.params=
+comment9.target=Restaurante\ getRestaurant()
+numComments=13

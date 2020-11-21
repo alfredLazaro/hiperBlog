@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Hotel
+comment1.params=precioUnitario\ ubicacion\ nombre
+comment1.target=Hotel(int,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getPrecioUnitario()
+comment3.params=
+comment3.target=java.lang.String\ getUbicacion()
+comment4.params=
+comment4.target=java.lang.String\ getNombre()
+comment5.params=nombre
+comment5.target=void\ setNombre(java.lang.String)
+comment6.params=existeVacante
+comment6.target=void\ setExisteVacante(boolean)
+comment7.params=precioUnitario
+comment7.target=void\ setPrecioUnitario(int)
+comment8.params=ubicacion
+comment8.target=void\ setUbicacion(java.lang.String)
+comment9.params=existeReserva
+comment9.target=boolean\ existenVacantes(boolean)
+numComments=10

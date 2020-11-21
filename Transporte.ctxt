@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Transporte
+comment1.params=precio\ origen\ tipoTransporte
+comment1.target=Transporte(int,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getTipoTransporte()
+comment3.params=
+comment3.target=java.lang.String\ getOrigen()
+comment4.params=
+comment4.target=int\ getPrecio()
+comment5.params=origen
+comment5.target=void\ setOrigen(java.lang.String)
+comment6.params=precio
+comment6.target=void\ setPresio(int)
+numComments=7
